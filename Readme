@@ -1,0 +1,11 @@
+// Make an API using Express to perform CRUD Operation
+
+// Create - POST - /products/create - Should be able to create/add products, store them in a json file called products.json, in key "products"
+
+// Read - GET - /products - Should be able get all the products present;
+
+// Update - PUT/PATCH - /products/:productId - modify the product of the given product ID
+
+// Delete - DELETE - /products/:productId - delete the product of the given product ID
+
+// Hint : Checkout "File system" module of node to store/read data from a file.
